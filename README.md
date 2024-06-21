@@ -1,16 +1,16 @@
-## Gentle (～￣▽￣)～
+# Gentle (～￣▽￣)～
 
-#🌟 Programming Language: 
-Built on Python :3 
+### 🌟 Programming Language: 
+Build on python, currently in alpha phase
 
-#🚫 Not OOP: 
+### 🚫 Not OOP: 
 While implemented in Python, Gentle primarily uses functional programming paradigms rather than Object-Oriented Programming principles.
 
-#🔍 Interpreted:
+### 🔍 Interpreted:
 As an interpreted application, Gentle executes its operations directly from the source code 📄, allowing for flexibility and ease of deployment.
 
-#🌐 Open Source:
+### 🌐 Open Source:
 Gentle is available as an open-source tool, fostering collaboration and customization among users and developers 🤝.
 
-#📈 Continuously Evolving: 
+### 📈 Continuously Evolving: 
 It undergoes continuous development and improvement 🛠️, driven by community feedback and contributions 💬, to enhance its features and performance over time.
