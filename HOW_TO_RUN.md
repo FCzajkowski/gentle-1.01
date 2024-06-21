@@ -1,0 +1,7 @@
+if you're downloading .py scripts you need: 
+=Python (i used 3.12)
+=Computer 
+
+I suggest to run by terminal, here's code:
+cd <directory>
+python shell.py
