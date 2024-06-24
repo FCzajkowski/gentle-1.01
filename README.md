@@ -9,6 +9,9 @@ While implemented in Python, Gentle primarily uses functional programming paradi
 ### 🔍 Interpreted:
 As an interpreted application, Gentle executes its operations directly from the source code 📄, allowing for flexibility and ease of deployment.
 
+###🏃‍♂️ Dynamic:
+Gentle is Dynamic Language (which means, that we dont have to declare that variable is int/float/some other datatype, because Gentle Knows it 🤓
+
 ### 🌐 Open Source:
 Gentle is available as an open-source tool, fostering collaboration and customization among users and developers 🤝.
 
