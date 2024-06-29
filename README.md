@@ -34,12 +34,12 @@ Itundergoes continuous development and improvement 🛠️, driven by community 
 
 # 🏃 How To Run ? 
 
-## 1️⃣ Firstly you need:
+## 1) Firstly you need:
 python *(3.12 RECOMMENDED)*
 
-## 2️⃣ After Downloading:
+## 2) After Downloading:
 run in terminal:
->> cd *<directory>*
+>> cd <directory_to_file>
 >> python shell.py
 
 ## 🥳 And IT should run 
