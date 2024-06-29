@@ -15,8 +15,8 @@ As an interpreted application, Gentle executes its operations directly from the 
 
 
 
-## 🏃‍♂️ Dynamic:
-Gentle is Dynamic Language (which means, that we dont have to declare that variable is integer/float/some other lousy datatype, because Gentle Knows it 🤓 )
+## 🏃‍♂️ Dynamic & 💪 Strong:
+Gentle is Dynamic (which means, that we dont have to declare that variable is integer/float/some other lousy datatype, because Gentle Knows it 🤓 ) & Strong ( no int + str 👿) programming language
 
 
 
