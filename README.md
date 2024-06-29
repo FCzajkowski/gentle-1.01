@@ -31,3 +31,15 @@ Itundergoes continuous development and improvement 🛠️, driven by community 
 
 
 ### 🎥 If You want to know more please contact us on github, we're really happy to help :DD
+
+# 🏃 How To Run ? 
+
+## 1️⃣ Firstly you need:
+python *(3.12 RECOMMENDED)*
+
+## 2️⃣ After Downloading:
+run in terminal:
+>> cd *<directory>*
+>> python shell.py
+
+## 🥳 And IT should run 
