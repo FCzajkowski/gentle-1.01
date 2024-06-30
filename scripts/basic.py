@@ -6,11 +6,7 @@ Once Again Im sorry
 
 TO ME LATER 
 REWRITE:
--fix for loop 
--fix var's 
--fix ** 
-
-WHILE STATEMENT while True:
+-fix loops
 AND => &&
 OR => ||
 
