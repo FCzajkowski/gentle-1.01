@@ -3,7 +3,7 @@
 # 🌟 Programming Language: 
 
 ## 💪 Build On Python 
-Build on python, currently in alpha phase ;(
+Build on python, currently in alpha phase :'(
 
 ## 🚫 Not OOP: 
 While implemented in Python, Gentle primarily uses functional programming paradigms rather than Object-Oriented Programming principles.
